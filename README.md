@@ -1,2 +1,2 @@
 # thanaya
-thanaya repo
+thanaya repo telugu skills
